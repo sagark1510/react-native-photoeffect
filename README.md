@@ -6,6 +6,7 @@ Photoeffect is the project to showcase how image manipulation can be done in rea
 2.  gl-react-image
 3.  gl-react-native
 4.  react-native-webgl
+5.  gl-react-instagramfilters
 
 # Steps to run the project
 
