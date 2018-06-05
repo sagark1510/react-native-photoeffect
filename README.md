@@ -14,3 +14,8 @@ Photoeffect is the project to showcase how image manipulation can be done in rea
 2.  $cd react-native-photoeffect
 3.  $npm install
 4.  $react-native run-{platform}
+
+# Todo
+- [ ] Save effect to device
+- [ ] Add more effects
+- [ ] Image from camera
