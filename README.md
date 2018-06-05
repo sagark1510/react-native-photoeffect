@@ -1,5 +1,7 @@
 Photoeffect is the project to showcase how image manipulation can be done in react native.
 
+![demo](demo.gif)
+
 # Modules used in this project
 
 1.  gl-react
