@@ -88,7 +88,7 @@ class FilterImage extends Component {
     const { color, height, width, source } = this.props;
     return (
       <Surface style={{ width, height }}>
-        {this.renderFilter(<GLImage source={source} />)}
+        {this.renderFilter(<GLImage resizeMode="contain" source={source} />)}
       </Surface>
     );
   }
